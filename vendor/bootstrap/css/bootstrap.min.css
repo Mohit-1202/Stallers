@@ -206,6 +206,7 @@
    color: white;
    border: none;
    border-width: 0;
+   text-decoration: underline;
 }
 .submit_btn :hover{
     margin-top: 20px;
